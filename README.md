@@ -1,6 +1,6 @@
-##  Перевод мода [Cybernetic Organism and Neural Network](https://steamcommunity.com/sharedfiles/filedetails/?id=2020964421)
+##  Перевод мода [Jewelry](https://steamcommunity.com/sharedfiles/filedetails/?id=2020964421)
 ### Все файлы переведены. Перевод включён в мод.
- 
+
 Подробности и координация на [дискорд сервере](https://discord.gg/Xmbwmgh)
 
 В качестве образца стоит использовать уже переведённые файлы и официальный перевод игры.
