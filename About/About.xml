@@ -1,5 +1,5 @@
 ﻿<ModMetaData>
-  <name>Русификатор для Jewelry</name>
+  <name>Русский язык для Jewelry</name>
   <author>OliveWizzard</author>
   <packageId>RU.jewelry</packageId>
   <supportedVersions>
@@ -13,9 +13,7 @@
 			<steamWorkshopUrl>steam://url/CommunityFilePage/2020964421</steamWorkshopUrl>
 		</li>
 	</modDependencies>
-  <description>
-Русификатор для Jewelry.
-  </description>
+  <description>Версия для тестирования перевода Jewelry перед включением в мод.</description>
   <loadAfter>
 		<li>kikohi.jewelry</li>
 	</loadAfter>
