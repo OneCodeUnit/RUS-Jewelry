@@ -1,10 +1,10 @@
 ﻿<ModMetaData>
   <name>Русификатор для Jewelry</name>
   <author>OliveWizzard</author>
-  <packageId>RU.kikohi.jewelry</packageId>
+  <packageId>RU.jewelry</packageId>
   <supportedVersions>
-    <li>1.2</li>
     <li>1.1</li>
+    <li>1.2</li>
   </supportedVersions>
   <modDependencies>
 		<li>
@@ -14,12 +14,9 @@
 		</li>
 	</modDependencies>
   <description>
-Русификатор для мода Jewelry.
-Для корректной работы должен быть расположен в списке модов ниже оригинального мода.
+Русификатор для Jewelry.
   </description>
   <loadAfter>
-		<li>Ludeon.RimWorld</li>
-		<li>Ludeon.RimWorld.Royalty</li>
 		<li>kikohi.jewelry</li>
 	</loadAfter>
 </ModMetaData>
